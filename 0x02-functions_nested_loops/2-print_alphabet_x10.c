@@ -1,12 +1,13 @@
+
 #include "main.h"
 
 /**
- 
- * print_alphabet_x10 - print the alphabest 10 times
- * Return: void here
+ * print_alphabet_x10 - Print the alphabest 10 times
+ * Return: void 
  */
 
 void print_alphabet_x10(void)
+
 {
 	char c;
 	int i = 0;
