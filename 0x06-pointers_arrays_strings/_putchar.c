@@ -3,11 +3,11 @@
 /**
  * _putchar - write the character c to stdout
  * @c: char to be printed
- * Return: i on success
+ * Return: 1 on success
  */
 
 int _putchar(char c)
 {
-	return (write(i, &c, i));
+	return (write(1, &c, 1));
 
 }
