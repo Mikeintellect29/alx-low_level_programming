@@ -27,6 +27,6 @@ while (src[j] != '\0')
 	j++;
 }
 dest[i] = '\0';
-return (drst);
+return (dest);
 
 }
