@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * _puts_recursion - writing a recursive function
- * @dest: output value
+ * _puts_recursion -  recursive function to print
  * @s: print a spring
  * Return: return zero
  */
