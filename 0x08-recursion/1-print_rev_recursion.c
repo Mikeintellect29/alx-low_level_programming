@@ -1,6 +1,6 @@
 #include "main.h"
 /*
- *  _print_rev_recursion - Printing a spring in reverse
+ *  _print_rev_recursion - Print  a spring in reverse
  *  @s: pointer to a spring
  *  return: Always 0
  */
