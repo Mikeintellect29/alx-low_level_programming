@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /*
  *  _print_rev_recursion - printing a spring in reverse
  *  
