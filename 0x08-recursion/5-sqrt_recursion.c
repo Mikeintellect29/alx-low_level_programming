@@ -1,4 +1,5 @@
 #include "main.h"
+int normal_sqrt_recursion(int n, int i);
 
 /**
  * _sqrt_recursion - function that returns the natural square root of a number.
@@ -21,7 +22,7 @@ int _sqrt_recursion(int n)
  * return: resulting aquare root
  */
 
-int normal _sqrt_recursion(int n, int i)
+int normal_sqrt_recursion(int n, int i)
 {
 	if (i * i < n)
 		return (-1);
