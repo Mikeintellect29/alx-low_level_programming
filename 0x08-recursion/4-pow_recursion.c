@@ -4,7 +4,7 @@
  * _pow_recursion -  function that  returns the
  * value of x raised to the power of y
  * @x: value to raise
- * @y: power
+ * @y: power to multiple 
  * return: the function should return -1
  */
 
